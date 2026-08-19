@@ -3,7 +3,7 @@
 18-year old software developer and blockchain enthusiast, building scalable backend systems and fullstack apps.
 
 🔗 **Connect with me:** 
-[Telegram: @tochd410](https://t.me/tochd410) | [guschamp47@gmail.com](mailto:guschamp47@gmail.com)
+[tg: @tochd410](https://t.me/tochd410) | [guschamp47@gmail.com](mailto:guschamp47@gmail.com)
 
 ---
 

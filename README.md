@@ -16,15 +16,15 @@
   
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=#914CF9" />
+  <img src="https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=black" />
   <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=flat&logo=phantom&logoColor=white" />
   <img src="https://img.shields.io/badge/Anchor-000000?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Bevy-232323?style=flat&logo=bevy&logoColor=white" />
 </p>
 
-* **Languages:** Python, C++, Rust, JavaScript, TypeScript
-* **Frontend:** JavaScript, TypeScript, PixiJS
-* **Backend:** NestJS, GraphQL, Python, Rust
+* **Languages:** Rust, C++, JavaScript, TypeScript
+* **Frontend:** JavaScript, TypeScript, PixiJS, React, Tailwind
+* **Backend:** NestJS, GraphQL, Rust, Axum
 * **Blockchain:** Solana, Anchor, Rust
-* **Databases:** PostgreSQL
-* **Tools:** Docker, Git
+* **Databases:** PostgreSQL, MongoDB
+* **Tools:** Docker, Git, Bun, Cargo
